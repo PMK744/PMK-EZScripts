@@ -1,0 +1,16 @@
+Thank you for downloading simpleVote for Element Zero.
+
+simpleVote is made primarily for minecraftpocket-servers.com
+You can use this on anyother vote service as long as they have the same vote api.
+
+You can edit the settings of simpleVote in the simpleVoteConfig.js file. You can change the messages, edit the rewards, and API Key and Website.
+
+installment:
+
+Place the scripts folder in your main directory of your Element Zero server.
+Make sure you have scripting support enabled.
+You must be on EZ Version 200262 or higher.
+
+Custom Script Development:
+
+PM PMK744#5874 on Discord for custom script development. I may charge depending on the task. Any script/plugin we be updated regularly when EZ updates.
